@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BioMetrics</string>
+    <string name="bioMetricUnAvailable">Biometric features are currently unavailable.</string>
+    <string name="bioMetricNotEnrolled">\" Biometric is Not Enrolled\"</string>
+    <string name="bioMetricNotAvailable">No biometric features available on this device.</string>
+    <string name="SecurityUpdateRequired">Security Update required</string>
+    <string name="UnsupportedError">Error Unsupported</string>
+    <string name="UnknownStatusError">Error Unknown Status</string>
+    <string name="BioMetricSuccess">Biometric Success</string>
+</resources>
